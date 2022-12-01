@@ -110,3 +110,4 @@ class Frac_calc{
    let result3 = "the Answer is "+ mysolve.arth(10,10,10,10,'-') +"k";
    let result4 = "the Answer is "+ mysolve.arth(10,10,10,10,"^2") +"k";
    let result5 = "the Answer is "+ mysolve.arth(10,10,10,10,"^3") +"k";
+   let result6 = "the Answer is "+ mysolve.arth(10,10,10,10,"^3") +"k";
